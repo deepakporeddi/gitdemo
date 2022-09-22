@@ -1,1 +1,2 @@
 this is foobar.txt
+modified version
